@@ -25,7 +25,8 @@
       <LinkButton link="https://twitter.com/100nandoo" text="Twitter" />
       <LinkButton
         link="https://www.linkedin.com/in/fernando-fransisco-halim-a8405b131/"
-        text="Linkedin" />
+        text="Linkedin"
+        type="btn-secondary" />
     </div>
   </div>
 </body>

@@ -3,7 +3,8 @@
 My personal website
 
 ## Tech stack
-* SvelteKit
-* Tailwind CSS
-* Daisy UI
-* Prettier
+
+- SvelteKit
+- Tailwind CSS
+- Daisy UI
+- Prettier
